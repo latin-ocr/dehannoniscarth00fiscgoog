@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./dehannoniscarth00fiscgoog_0009.png"; bbox 0 0 3467 5334; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 817 1846 2568 1959">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 817 1846 2568 1959">
+     <span class='ocr_line' id='line_1_1' title="bbox 817 1846 2568 1959; baseline -0.001 -2"><span class='ocrx_word' id='word_1_1' title='bbox 817 1847 1426 1959; x_wconf 76' lang='lat' dir='ltr'>CURTIO</span> <span class='ocrx_word' id='word_1_2' title='bbox 1524 1846 2568 1958; x_wconf 73' lang='lat' dir='ltr'>WAOHSMUTH</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 978 2213 2403 2327">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 978 2213 2403 2327">
+     <span class='ocr_line' id='line_1_2' title="bbox 978 2213 2403 2327; baseline -0.001 -1"><span class='ocrx_word' id='word_1_3' title='bbox 978 2213 1582 2327; x_wconf 82' lang='lat' dir='ltr'>OTTONI</span> <span class='ocrx_word' id='word_1_4' title='bbox 1686 2215 2403 2326; x_wconf 78' lang='lat' dir='ltr'>RIBBEOK</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 1004 2568 2178 2658">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 1004 2568 2178 2658">
+     <span class='ocr_line' id='line_1_3' title="bbox 1004 2568 2178 2658; baseline 0.002 -3"><span class='ocrx_word' id='word_1_5' title='bbox 1004 2568 1011 2575; x_wconf 85' lang='lat'>&#39;</span> <span class='ocrx_word' id='word_1_6' title='bbox 1189 2585 1844 2658; x_wconf 76' lang='lat' dir='ltr'><strong>PRAEGEPTORIBUS</strong></span> <span class='ocrx_word' id='word_1_7' title='bbox 1889 2588 2178 2658; x_wconf 75' lang='lat' dir='ltr'>opmsss</span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
